@@ -18,7 +18,7 @@ def is_connected():
         pass
     return False
 
-keys = ["AIzaSyBLuKB_DU4NmGca6XGW5-BcYSxBB_2OmiA"]
+keys = [" "]
 key_index=0
 
 class Youtube_extract:
